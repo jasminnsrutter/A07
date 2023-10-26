@@ -60,6 +60,11 @@ main {
 	padding-left: 30px;
 	padding-right: 30px;
 }
+h1 {
+	border: 3px double #931420;
+	border-radius: 15px;
+	box-shadow: 2px 2px 2px #000000;
+}
 main h1 {
 	font-size: 150%;
 	padding: .3em 0;
